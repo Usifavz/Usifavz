@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="myimage.png" alt="Anime Cloud Engineer" width="600" />
+  <img src="Cloud.png" alt="Anime Cloud Engineer" width="600" />
 </p>
 
 # 👋 Hi, I'm Favour
