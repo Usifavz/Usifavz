@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Usifavz/Usifavz/main/Cloud.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Usifavz/Usifavz/main/Cloud.png" width="800" />
 </p>
 
 # 👋 Hi, I'm Favour
