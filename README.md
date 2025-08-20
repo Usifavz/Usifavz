@@ -27,7 +27,7 @@ Here are some of the tools and technologies I work with:
 
 #### **DevOps & Automation**
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -49,13 +49,14 @@ Here are some of the tools and technologies I work with:
 Here are some of my Microsoft Certifications:  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Security%20Operations%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Information%20Protection%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-2024--2025-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nerdio%20Certified-Azure%20Fundamentals%20for%20Endpoint%20Management-00ADEF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nerdio%20Certified-Azure%20Fundamentals%20for%20Endpoint%20Management-00ADEF?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
 
 ---
 
