@@ -45,29 +45,17 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-### 🎓 Certifications  
-Here are some of my Certifications:  
+### 🎓 Certifications
+Here are some of my Microsoft Certifications:  
 
 <p align="left">
-  <!-- Microsoft Certified: Azure Fundamentals (AZ-900) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-
-  <!-- Microsoft Certified: Identity and Access Administrator Associate (SC-300) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20(SC--300)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-
-  <!-- Microsoft Certified: Security Operations Analyst Associate (SC-200) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Security%20Operations%20Analyst%20(SC--200)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-
-  <!-- Microsoft Certified: Information Protection Administrator Associate (SC-400) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Information%20Protection%20Administrator%20(SC--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-
-  <!-- Microsoft Certified Trainer (MCT) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT%202024--2025-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
-
-  <!-- Nerdio Certified -->
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20Associate%20(SC--300)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Security%20Operations%20Analyst%20Associate%20(SC--200)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Information%20Protection%20Administrator%20Associate%20(SC--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT%202024--2025-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Nerdio%20Certified-Azure%20Fundamentals%20for%20Endpoint%20Management-00ADEF?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
 
 
 ---
